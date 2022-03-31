@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Мой сайт</title> <!-- Название вашего сайта во вкладке -->
+
+</head>
+
+<body>
+
+<div id="serfnets_15198" style="width: 468px;height: 60px;">
+<script src="//serfnets.ru/site1.php?r=15198" async></script>
+</div>
+<div id="webtraf_2376" style="width:468px;height:60px;"><script src="https://webtrafic.ru/ads.php?uid=2376" async></script></div>
+<iframe src="//serfnets.ru/2bancod.php?r=15198" width="468" height="61" scrolling="no" frameborder="0"></iframe> 
+
+</body>
+
+</html>
